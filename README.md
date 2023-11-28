@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @AkhmadKholmurodov
-- 👍 I know Html,Css,JavaScript,Bootstrap,Node.js, MangoDB, Korean to Advanced, English upperintermediate
+- 👍 I know Node.js, MangoDB,ReactJS, NextJS, Tailwind, GraphQL, MUI.
+- 📫 Korean - Intermediate lvl, English Advanced lvl
 - 👀 My hobby is Table Tennis
-- 🌱 I’m currently learning ReactJS intermediate  to advanced
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Golang, Python
 - My email: < seehyuk2000@gmail.com />
 - Phone Number: 01038021005
 
